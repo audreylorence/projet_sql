@@ -17,6 +17,7 @@ Période couverte : 04/04/2025 au 17/06/2025.
 Source : https://www.kaggle.com/datasets/joycemara/european-fashion-store-multitable-dataset
 
 ## Structure du dépôt
+```
 sql/
 ├── 00_notes_tables.sql       → documentation des colonnes
 ├── 01_schema.sql             → clés primaires/étrangères, renommage des tables
@@ -26,6 +27,7 @@ sql/
 ├── 05_q4_ca_par_tranche_age.sql → dépense moyenne par tranche d'âge
 ├── 06_q5_evolution_ca_campagnes.sql → évolution du CA entre campagnes
 └── 07_q6_delai_entre_achats.sql → délai moyen entre deux achats
+```
 
 ## Questions analysées
 1. Quel pays réalise le meilleur CA chaque semaine ?
